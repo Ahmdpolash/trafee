@@ -18,16 +18,16 @@ const Navbar = () => {
   const navList = (
     <>
       <Link href="/" className="lg:ml-4">
-        Home
+        Verticals
       </Link>
       <Link href="/about" className="lg:ml-4">
-        About
+        Why us?
       </Link>
       <Link href="/contact" className="lg:ml-4">
-        Contact
+        How it works
       </Link>
       <Link href="/services" className="lg:ml-4">
-        Services
+        About us
       </Link>
     </>
   );
