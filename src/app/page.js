@@ -1,4 +1,5 @@
 import Banner from "@/components/home/Banner";
+import Best from "@/components/home/Best";
 import BetterMonitize from "@/components/home/BetterMonitize";
 import Monetize from "@/components/home/Monetize";
 import Video from "@/components/home/Video";
@@ -20,6 +21,7 @@ export default function Home() {
       <Video />
       <Monetize />
       <BetterMonitize />
+      <Best />
     </div>
   );
 }
