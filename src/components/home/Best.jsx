@@ -133,6 +133,15 @@ const Best = () => {
               </div>
             </div>
           </div>
+
+          <div className="mt-6 lg:mt-10">
+            <a
+              href=""
+              className="mx-auto rounded-md  text-[18px] button--s1 button--t1 py-2 text-white block"
+            >
+              <span>Monetize your traffic</span>{" "}
+            </a>
+          </div>
         </div>
       </Container>
     </div>
