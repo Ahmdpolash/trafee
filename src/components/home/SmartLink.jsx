@@ -6,7 +6,7 @@ const SmartLink = () => {
   return (
     <div className="mt-4 relative my-5 smartlink lg:pt-[380px]">
       <Container>
-        <div className="space-y-2 ">
+        <div className="space-y-2 " data-aos="fade-up" data-aos-duration="2000">
           <h1 className="text-[#000000] tracking-wide font-bold text-[18px] md:text-2xl lg:text-3xl">
             GeekTeams.com - smartlink of new <br /> Generation!
           </h1>
@@ -25,7 +25,7 @@ const SmartLink = () => {
             </a>
           </div>
         </div>
-        <div className="hidden lg:block">
+        <div className="hidden lg:block" data-aos="slide-down">
           <Image
             className="w-[320px] animate-bounce duration-700 absolute lg:left-[40%] bottom-0"
             src={robot}
