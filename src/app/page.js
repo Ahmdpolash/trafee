@@ -11,7 +11,7 @@ export default function Home() {
     <div>
       <div
         style={{
-          background: `url("https://www.trafee.com/wp-content/themes/trafee/assets/images/bg.webp") top left / 68% 100% no-repeat`,
+          background: `url("https://www.trafee.com/wp-content/themes/trafee/assets/images/bg.webp") top left / 88% 100% no-repeat`,
           height: "100vh",
         }}
         className=""
