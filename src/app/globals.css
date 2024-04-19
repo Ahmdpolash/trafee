@@ -81,3 +81,25 @@
     rgba(2, 84, 252, 0.32) 168.81%
   );
 }
+
+/* smart link */
+.smartlink {
+  background-image: url("https://www.trafee.com/wp-content/themes/trafee/assets/images/backgrounds/bg_section_bottom.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100v;
+}
+
+.box {
+  position: relative;
+  border-radius: 22px;
+  padding: 20px 0;
+  max-width: 460px;
+  line-height: 1.4;
+  background: #fff;
+  background-clip: padding-box;
+  border: solid 3px transparent;
+  height: 100%;
+  grid-area: 2 / 2;
+  justify-self: end;
+}
