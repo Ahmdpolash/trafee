@@ -26,7 +26,6 @@ const Banner = () => {
           </div>
 
           <div className="w-full lg:w-[37vw]  h-auto mt-5 lg:mt-0">
-
             <div className="flex justify-center mx-auto items-center gap-7 mb-5">
               <div
                 style={{
@@ -54,7 +53,7 @@ const Banner = () => {
                 }}
                 className="h-[170px] lg:h-[275px] w-full relative rounded-2xl"
               >
-                <div className="absolute inset-0 bg-black rounded-2xl bg-opacity-50 flex justify-center items-center lg:justify-start lg:items-start">
+                <div className="absolute inset-0 bg-black rounded-2xl bg-opacity-50 flex  p-5 lg:p-6  justify-center items-center lg:justify-start lg:items-start">
                   <div div className="text-white ">
                     <h2 class="text-[16px] lg:text-[22px] tracking-wider font-bold lg:mb-16">
                       Geekteams Guide to <br /> the IGaming <br /> Industry in
@@ -107,8 +106,6 @@ const Banner = () => {
                 </div>
               </div>
             </div>
-
-
           </div>
         </div>
       </Container>
