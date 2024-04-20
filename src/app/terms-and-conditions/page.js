@@ -482,7 +482,7 @@ const Terms = () => {
             substance and material, not simply a list of links or advertisements
             and that Your Affiliate Website serves a purpose substantially or
             completely separate and distinct from merely being designed to earn
-            money solely from Trafee’s Advertisers or other third party
+            money solely from Trafee s Advertisers or other third party
             advertisers;
           </p>
           <p className="font-normal tracking-wide text-justify text-gray-700 py-2">
@@ -492,10 +492,578 @@ const Terms = () => {
             is not acceptable);
           </p>
           <p className="font-normal tracking-wide text-justify text-gray-700 py-2">
-            Failure to comply with the representations and warranties set forth
-            in this Section 10 will result in disciplinary action including
-            campaign denial, account termination and the forfeiture of all
-            monies owed.
+            c. Your Affiliate Website is not offered as a part of a
+            community-based website personal entry or personal page;
+          </p>
+          <p className="font-normal tracking-wide text-justify text-gray-700 py-2">
+            d. Your Affiliate Website and Affiliate E-mails do not incentivize
+            users to click on Creatives (“Incentives”). Incentives include, but
+            are not limited to, awarding users cash, points, prizes, and/or
+            contest or sweepstake entries;
+          </p>
+          <p className="font-normal tracking-wide text-justify text-gray-700 py-2">
+            e. Your Affiliate Website is not hosted by a free service and is
+            fully functional at all times and at all levels (no “under
+            construction” Affiliate Websites or any sections thereof are
+            permissible);
+          </p>
+          <p className="font-normal tracking-wide text-justify text-gray-700 py-2">
+            f. You will not use spawning process pop-ups and exit pop-ups in
+            connection with
+          </p>
+          <p className="font-normal tracking-wide text-justify text-gray-700 py-2">
+            g. Your Affiliate Website features, at a minimum, a privacy policy
+            (“Privacy Policy”) linked conspicuously from such Affiliate Website
+            s home page, with a link that contains clear, prominent and explicit
+            language indicating its presence. Such Privacy Policy shall, in
+            addition to the disclosures about Affiliate s privacy practices
+            identify the collection and specific use of any information
+            Affiliate collects, provides or may provide to Trafee and to any
+            Advertiser or other websites or persons with which Affiliate has any
+            other arrangement relating thereto. In addition to listing the
+            categories of personally identifiable information that are
+            collected, Affiliate must list the categories of third-parties with
+            whom Affiliate shares such personally identifiable information,
+            describe the process (if any) by which a consumer can review and
+            request changes to his/her personally identifiable information
+            collected by Affiiliate, describe the process by which Affiliate
+            notifies consumers of material changes to the Privacy Policy, and
+            indicate the effective date thereof. Affiliate must disclose how it
+            respond to web browser s Do-Not-Track signals or other mechanisms
+            that provide consumers the ability to exercise choice regarding the
+            collection of personally identifiable information about an
+            individual consumer s online activities over time and across
+            third-party websites or online services (if Affiliate engages in
+            such collection), and disclose whether other parties may collect
+            personally identifiable information about an individual consumer s
+            online activities over time and across different websites when a
+            consumer uses Affiliate s website. You are obligated to fully comply
+            with the privacy policy posted on the Affiliate Website(s) at all
+            times. You shall notify Trafee in writing at least three (3)
+            business days in advance of any changes to any applicable privacy
+            policy and shall provide Trafee with a revised copy of the affected
+            privacy policy prior to the date that the changes take effect;h
+          </p>
+          <p className="font-normal tracking-wide text-justify text-gray-700 py-2">
+            h. no images, graphics, links, co-registration paths, pop-ups,
+            pop-unders, copy or process for generating Actions other than the
+            Creatives will be used by You in connection with the Programs
+            without first obtaining the prior written consent of
+          </p>
+          <p className="font-normal tracking-wide text-justify text-gray-700 py-2">
+            i. You will place or use the Creatives only with the intention of
+            delivering valid Actions as determined by, and for the benefit of,
+            the applicable Advertiser;
+          </p>
+          <p className="font-normal tracking-wide text-justify text-gray-700 py-2">
+            j. You will not, nor knowingly permit any person to, activate
+            Creatives or inflate the amount of Actions through any deceptive or
+            misleading practice, method or technology including, but not limited
+            to, the use of any spyware, device, program, robot, Iframes, hidden
+            frames, redirects, spiders, computer script or other automated,
+            artificial or fraudulent methods designed to appear like an
+            individual, real live person performing an Action;
+          </p>
+          <p className="font-normal tracking-wide text-justify text-gray-700 py-2">
+            K. You will not violate guidelines of any search engines being
+            utilized;
+          </p>
+          <p className="font-normal tracking-wide text-justify text-gray-700 py-2">
+            L.You will not redirect traffic to a website other than the website
+            specifically listed by the applicable Advertiser. You further
+            represent and warrant that the content of Your Affiliate Website and
+            Affiliate E-mails does not promote, advocate, facilitate or
+            otherwise include any of the following: (i) hate speech or material
+            that discriminates on the basis of race, ethnicity, gender, age,
+            disability, religion or sexual orientation; (ii) Investment,
+            money-making opportunities or advice not permitted under law; (iii)
+            violence or profanity; (iv) pornographic, obscene, sexually explicit
+            or related content; (v) material that defames, abuses, is libelous,
+            is tortuous or threatens physical harm to others; (vi) material that
+            displays any telephone numbers, street addresses, last names, URLs,
+            e-mail addresses or any confidential information of any third
+            person; (vii) material that impersonates any person or entity;
+            (viii) any indication that any statements You make are endorsed by
+            Trafee and/or an Advertiser, without Trafee s and/or Advertiser s
+            specific prior written consent; (ix) promotion of illegal substances
+            or activities (e.g., illegal narcotics, how to build a bomb,
+            counterfeiting money, etc.); (x); content which is inappropriate or
+            harmful to children; (xi) promotion of terrorism or
+            terrorist-related activities, sedition or similar activities; (xii)
+            software pirating (e.g., warez, hotline); (xiii) hacking or
+            phreaking; (xiv) any material that contains software viruses or any
+            other computer code, files or programs designed to interrupt,
+            destroy or limit the functionality of any computer software or
+            hardware or telecommunications equipment; (xv) any software, product
+            or service that is illegal or that violates the rights of a third
+            party including, but not limited to, spyware, adware, programs
+            designed to send unsolicited advertisements (i.e. “spamware”),
+            services that send unsolicited advertisements, programs designed to
+            initiate “denial of service” attacks, mail bomb programs and
+            programs designed to gain unauthorized access to networks on the
+            Internet; (xvi) any software, product or service that harvests or
+            collects the personal information of Internet users, whether or not
+            for commercial purposes, without the express consent of such users;
+            (xvii) any spoofing, redirecting or trafficking from other websites
+            in an effort to gain traffic; (xviii) any content that infringes
+            upon the intellectual property rights of any third party or any
+            other right including, without limitation, false advertising, unfair
+            competition, invasion of rights of publicity or privacy; (xix)
+            gambling, contests, lotteries, raffles, or sweepstakes; (xx) any
+            material that violates CAN-SPAM; or (xxi) any illegal activity
+            whatsoever (including any violations of applicable The EU s laws,
+            U.S. state or federal law or regulation, Canadian provincial or
+            federal law or the laws of any other jurisdiction in which You
+            operate).
+          </p>
+        </div>
+
+        <div className="space-y-3">
+          <h1 className="text-xl text-[#000000] lg:text-4xl py-2 font-semibold tracking-wide">
+            12. Customer Information; Non Disclosure
+          </h1>
+
+          <p className="font-normal tracking-wide text-justify text-gray-700 py-2">
+            Any and all information submitted by end-user customers (“Customer
+            Information”) in connection with a Program shall be considered
+            proprietary to and owned by Trafee. Such Customer Information is
+            Confidential Information (as that term is defined below) of Trafee
+            and may not be utilized or otherwise disclosed by You. In addition,
+            You acknowledge that all non-public information, data and reports
+            made available by Trafee hereunder or otherwise as part of the
+            Services is proprietary to and owned by Trafee. All proprietary and
+            Confidential Information is protected by copyright, trademark and
+            other intellectual property laws. You agree not to reproduce,
+            disseminate, sell, distribute or commercially exploit any
+            proprietary or Confidential Information of Trafee in any manner.
+            These non-disclosure obligations shall survive termination or
+            expiration of the Agreement. operate).
+          </p>
+        </div>
+
+        <div className="space-y-3">
+          <h1 className="text-xl text-[#000000] lg:text-4xl py-2 font-semibold tracking-wide">
+            13. Propierity Rights
+          </h1>
+
+          <p className="font-normal tracking-wide text-justify text-gray-700 py-2">
+            Subject to the Agreement and any underlying Program Terms, Trafee
+            grants to Affiliate a revocable, non-transferable, royalty free,
+            international license to display on, and distribute through, the
+            Affiliate Website, Affiliate E-mails and/or other approved marketing
+            channels, the Creatives, and any and all associated trademarks,
+            service marks, tradenames and/or copyrighted material (“Intellectual
+            Property Content”) that Trafee provides to Affiliate through the
+            Trafee Network for the limited purposes of promoting Programs to end
+            users. Affiliate may not remove or alter any copyright or trademark
+            notices. The Intellectual Property Content and other matters related
+            to the Trafee Network, Programs, Creatives and Site are protected
+            under applicable copyright, trademark and other proprietary rights.
+            The use, copying, redistribution and/or publication by Affiliate of
+            any part of the Trafee Network, Programs, Creatives and/or Site,
+            other than as expressly permitted hereunder, are strictly
+            prohibited. Affiliate does not acquire any ownership rights to the
+            Trafee Network, Programs, Creatives and/or Site. The availability of
+            the Trafee Network, Programs, Creatives and Site does not constitute
+            a waiver of any rights related thereto. No part of the Site may be
+            reproduced in any form or incorporated into any information
+            retrieval system, electronic or mechanical. You may not use, copy,
+            emulate, clone, rent, lease, sell, modify, decompile, disassemble,
+            reverse engineer or transfer the Site, Site content or any portion
+            thereof. Trafee reserves any rights not explicitly granted in the
+            Agreement.
+          </p>
+        </div>
+
+        <div className="space-y-3">
+          <h1 className="text-xl text-[#000000] lg:text-4xl py-2 font-semibold tracking-wide">
+            13. Propierity Rights
+          </h1>
+
+          <p className="font-normal tracking-wide text-justify text-gray-700 py-2">
+            Subject to the Agreement and any underlying Program Terms, Trafee
+            grants to Affiliate a revocable, non-transferable, royalty free,
+            international license to display on, and distribute through, the
+            Affiliate Website, Affiliate E-mails and/or other approved marketing
+            channels, the Creatives, and any and all associated trademarks,
+            service marks, tradenames and/or copyrighted material (“Intellectual
+            Property Content”) that Trafee provides to Affiliate through the
+            Trafee Network for the limited purposes of promoting Programs to end
+            users. Affiliate may not remove or alter any copyright or trademark
+            notices. The Intellectual Property Content and other matters related
+            to the Trafee Network, Programs, Creatives and Site are protected
+            under applicable copyright, trademark and other proprietary rights.
+            The use, copying, redistribution and/or publication by Affiliate of
+            any part of the Trafee Network, Programs, Creatives and/or Site,
+            other than as expressly permitted hereunder, are strictly
+            prohibited. Affiliate does not acquire any ownership rights to the
+            Trafee Network, Programs, Creatives and/or Site. The availability of
+            the Trafee Network, Programs, Creatives and Site does not constitute
+            a waiver of any rights related thereto. No part of the Site may be
+            reproduced in any form or incorporated into any information
+            retrieval system, electronic or mechanical. You may not use, copy,
+            emulate, clone, rent, lease, sell, modify, decompile, disassemble,
+            reverse engineer or transfer the Site, Site content or any portion
+            thereof. Trafee reserves any rights not explicitly granted in the
+            Agreement.
+          </p>
+        </div>
+
+        <div className="space-y-3">
+          <h1 className="text-xl text-[#000000] lg:text-4xl py-2 font-semibold tracking-wide">
+            14. Limitations of Liablity; Disclaimer of warranty
+          </h1>
+
+          <h3 className="trackig-wide uppercase text-gray-700">
+            IN NO EVENT SHALL Trafee BE LIABLE TO YOU OR ANY THIRD PARTY
+          </h3>
+          <h3 className="trackig-wide uppercase text-gray-700">
+            (INCLUDING, WITHOUT LIMITATION, ANY CUSTOMERS OBTAINED THROUGH)
+          </h3>
+          <h3 className="trackingwide uppercase text-gray-700">
+            YOUR MARKETING EFFORTS) FOR ANY DAMAGES OF ANY KIND ARISING
+          </h3>
+          <h3 className="trackingwide uppercase text-gray-700">
+            WHEN A SPECIFIC CREATIVE IS NO LONGER AVAILABLE IN THE GeekTeams
+          </h3>
+          <h3 className="tracking-ide uppercase text-gray-700">
+            FROM YOUR USE OF THE SITE, A PROGRAM, ADVERTISERS UNDERLYING
+          </h3>
+          <h3 className="tracking-ide uppercase text-gray-700">
+            PRODUCTS AND/OR SERVICES OR YOUR DISPLAY OF ANY CREATIVES ON
+          </h3>
+          <h3 className="tracking-wde uppercase text-gray-700">
+            R THROUGH YOUR AFFILIATE WEBSITE AND/OR AFFILIATE E-MAILS
+          </h3>
+          <h3 className=" uppercase text-gray-700">
+            INCLUDING, BUT NOT LIMITED TO, SPECIAL, INDIRECT, INCIDENTAL,{" "}
+          </h3>
+          <h3 className=" uppercase text-gray-700">
+            AGGREGATE LIABILITY TO AFFILIATE AND ANY THIRD PARTY UNDER ANY AND
+            ALL CIRCUMSTANCES SHALL BE THREE HUNDRED DOLLARS ($300). REGARDLESS
+            OF ANY LAW TO THE CONTRARY, NO ACTION, SUIT OR
+          </h3>
+          <h3 className=" uppercase text-gray-700">
+            PROCEEDING SHALL BE BROUGHT AGAINST Trafee MORE THAN ONE (1)
+          </h3>
+          <h3 className=" uppercase text-gray-700">
+            YEAR AFTER THE DATE UPON WHICH THE CLAIM AROSE. AFFILIATE
+          </h3>
+          <h3 className=" uppercase text-gray-700">
+            FAIR AND REASONABLE. THE SITE, CREATIVES, PROGRAMS, ADVERTISERS
+          </h3>
+          <h3 className=" uppercase text-gray-700">
+            FUNDERLYING PRODUCTS AND SERVICES, CONTENT AND SERVICES ARE
+          </h3>
+          <h3 className=" uppercase text-gray-700">
+            EXPRESS AND IMPLIED, ARE DISCLAIMED (INCLUDING, WITHOUT
+          </h3>
+          <h3 className=" uppercase text-gray-700">
+            LIMITATION, THE DISCLAIMER OF ANY WARRANTIES OF MERCHANTABILITY,{" "}
+          </h3>
+          <h3 className=" uppercase text-gray-700">
+            NON-INFRINGEMENT OF INTELLECTUAL PROPERTY AND/OR FITNESS FOR A
+          </h3>
+          <h3 className=" uppercase text-gray-700">
+            PARTICULAR PURPOSE). THE SITE, CREATIVES, PROGRAMS AND/OR
+          </h3>
+          <h3 className=" uppercase text-gray-700">
+            PADVERTISERS UNDERLYING PRODUCTS AND SERVICES MAY CONTAIN
+          </h3>
+          <h3 className=" uppercase text-gray-700">
+            BUGS, ERRORS, PROBLEMS OR OTHER LIMITATIONS. Trafee HAS NO
+          </h3>
+          <h3 className=" uppercase text-gray-700">
+            LIABILITY, WHATSOEVER, TO AFFILIATE OR ANY THIRD PARTY, FOR
+          </h3>
+          <h3 className=" uppercase text-gray-700">
+            PROGRAMS AND/OR ADVERTISERS UNDERLYING PRODUCTS OR SERVICES
+          </h3>
+          <h3 className=" uppercase text-gray-700">
+            AND Trafee DISCLAIMS ANY AND ALL WARRANTIES, EXPRESS AND IMPLIED,
+          </h3>
+          <h3 className=" uppercase text-gray-700">
+            THAT AFFILIATE S USE OF SAME WILL BE UNINTERRUPTED OR ERROR-FREE
+          </h3>
+          <h3 className=" uppercase text-gray-700">
+            ELEMENT OF THE BASIS OF THE BARGAIN BETWEEN Trafee AND AFFILIATE.
+          </h3>
+          <h3 className=" uppercase text-gray-700">
+            THE SITE, CREATIVES, PROGRAMS AND/OR ADVERTISERS UNDERLYING
+          </h3>
+          <h3 className=" uppercase text-gray-700">
+            WITHOUT SUCH LIMITATIONS. Trafee MAKES NO REPRESENTATION OR
+          </h3>
+          <h3 className=" uppercase text-gray-700">
+            SITE, CREATIVES AND/OR PROGRAMS. NO ADVICE OR INFORMATION,
+          </h3>
+          <h3 className=" uppercase text-gray-700">
+            WHETHER ORAL OR WRITTEN, OBTAINED BY AFFILIATE FROM Trafee AND/OR
+          </h3>
+          <h3 className=" uppercase text-gray-700">
+            ANY ADVERTISER BY AND THROUGH THE SITE, CREATIVES AND/OR PROGRAMS
+            SHALL CREATE ANY WARRANTY, REPRESENTATION AND/OR GUARANTEE NOT
+            EXPRESSLY STATED IN THE AGREEMENT.
+          </h3>
+        </div>
+
+        <div className="space-y-3">
+          <h1 className="text-xl text-[#000000] lg:text-4xl py-2 font-semibold tracking-wide">
+            15.Identity
+          </h1>
+
+          <p className="font-normal tracking-wide text-justify text-gray-700 py-2">
+            You shall indemnify, defend and hold Trafee, its Advertisers and
+            each of their respective parents, Affiliates, subsidiaries,
+            officers, partners, members, managers, employees, agents and
+            attorneys, harmless from and against any and all claims,
+            allegations, liabilities, costs and expenses (including reasonable
+            attorneys fees) arising out of or related to: (a) Your improper use
+            of the Site, Program, Services and/or any Creatives; (b) any third
+            party claim related to Your Affiliate Website, Affiliate E-mails
+            and/or Your marketing practices; (c) any third party allegation or
+            claim against Trafee and/or its Advertiser(s) relating to a
+            violation of any and all state and federal laws or the laws of Your
+            jurisdiction; (d) any content, goods or services offered, sold or
+            otherwise made available by You on or through the Affiliate Website,
+            Affiliate E-mails, other marketing channels or otherwise; (e) any
+            claim that Trafee is obligated to pay any taxes in connection with
+            payment made to You in connection with the Agreement and/or any
+            Program; (f) breach and/or violation of the Agreement and/or any
+            representation or warranty contained herein; and/or (g) Your use of
+            the Site, Program, Services and/or any Creatives, in any manner
+            whatsoever. Trafee shall indemnify, defend and hold You harmless
+            from and against any and all claims allegations, liabilities, costs
+            and expenses (including reasonable attorneys fees) by third parties
+            arising out of any actual infringement of intellectual property
+            rights resulting from Your display of the actual Creatives, in
+            unaltered form, as provided in connection with any Program. If any
+            action is brought against either party (the “Indemnified Party”) in
+            respect to any allegation for which indemnity may be sought from the
+            other party (“Indemnifying Party”), the Indemnified Party will
+            promptly notify the Indemnifying Party of any such claim of which it
+            becomes aware, except that failure to provide such notice shall not
+            excuse the Indemnifying Party s indemnification obligations under
+            this Section 16 unless such failure materially prejudices the
+            Indemnifying Party. The Indemnified Party shall permit the
+            Indemnifying Party to assume control over the defense of such claim,
+            with counsel chosen by the Indemnifying Party that is reasonably
+            acceptable to the Indemnified Party, provided however, that the
+            Indemnified Party shall control the defense of any such claim that,
+            in the reasonable opinion of such Indemnified Party, could have a
+            material and adverse effect on the business, operations, assets or
+            prospects of such Indemnified Party, and the reasonable costs and
+            expenses thereof shall be included as part of the indemnification
+            obligations of the Indemnifying Party hereunder. The Indemnifying
+            Party will not acquiesce to any judgment or enter into any
+            settlement that adversely affects the Indemnified Party s rights or
+            interests without the prior written consent of the Indemnified
+            Party.
+          </p>
+        </div>
+
+        <div className="space-y-3">
+          <h1 className="text-xl text-[#000000] lg:text-4xl py-2 font-semibold tracking-wide">
+            16.Assingment
+          </h1>
+
+          <p className="font-normal tracking-wide text-justify text-gray-700 py-2">
+            Trafee may assign the Agreement, or any portion thereof, at its sole
+            discretion. You may not assign, transfer or delegate any of Your
+            rights under the Agreement without the prior written consent of
+            Trafee, which may be withheld for any reason, and any attempts to do
+            so shall be null and void. Further, any such attempts may result in
+            Trafee, at its sole discretion, immediately terminating the
+            Agreement and/or Your participation in any Program, without any
+            liability to Trafee. The Agreement will be binding on, inure to the
+            benefit of and be enforceable against, the Parties successors and
+            assigns.
+          </p>
+        </div>
+        <div className="space-y-3">
+          <h1 className="text-xl text-[#000000] lg:text-4xl py-2 font-semibold tracking-wide">
+            17. Jurisdiction and Values
+          </h1>
+
+          <p className="font-normal tracking-wide text-justify text-gray-700 py-2">
+            The Agreement shall be construed and governed by the laws of the EU
+            and Czech Republic, without giving effect to principles of conflicts
+            of law. Any and all disputes or controversies whether of law or fact
+            of any nature whatsoever arising from or respecting the Agreement
+            shall be decided by arbitration by the American Arbitration
+            Association (“Arbitrator”), in accordance with the rules and
+            regulations of that Association. Arbitration shall take place in
+            Prague, Czech Republic. At the request of Trafee, arbitration
+            proceedings will be conducted in secrecy. In such case all
+            documents, testimony and records shall be received, heard and
+            maintained by Arbitrator in secrecy under seal, available for the
+            inspection only by Trafee or Affiliate and by their respective
+            attorneys and their respective experts who shall have agreed, in
+            advance and in writing, to receive all such information
+            confidentially and to maintain such information in secrecy.
+            Arbitrator shall be able to decree any and all relief of an
+            equitable nature including, but not limited to, such relief as a
+            temporary restraining order, a temporary and/or a permanent
+            injunction, and shall also be able to award damages, with or without
+            an accounting and costs. Trafee shall be entitled to an award of its
+            reasonable costs and expenses, including attorneys fees, in any
+            action or proceeding in connection to, arising out of, or under the
+            Agreement. Nothing contained in the Agreement shall be construed to
+            limit any legal remedies available to Trafee.To the extent permitted
+            by law, You agree not to bring, join or participate in any class
+            action lawsuit as to any claim, dispute or controversy that You may
+            have against Trafee and its employees, officers, directors, members,
+            representatives and assigns. You agree to the entry of injunctive
+            relief to stop such a lawsuit or to remove You as a participant in
+            the suit. You agree to pay the attorneys fees and court costs that
+            Trafee incurs in seeking such relief. This provisionpreventingYou
+            from bringing, joining or participating in class action lawsuits
+            does not constitute a waiver of any of Your rights and remedies to
+            pursue a claim individually and not as a class action in binding
+            arbitration as provided above. This provision preventing You from
+            bringing, joining or participating in class action lawsuits is an
+            independent agreement.
+          </p>
+        </div>
+
+        <div className="space-y-3">
+          <h1 className="text-xl text-[#000000] lg:text-4xl py-2 font-semibold tracking-wide">
+            18. Sevaribility; Non WIver
+          </h1>
+
+          <p className="font-normal tracking-wide text-justify text-gray-700 py-2">
+            If any provision of the Agreement is held to be invalid, illegal or
+            unenforceable for any reason, such invalidity, illegality or
+            unenforceability shall not effect any other provisions of the
+            Agreement, and the Agreement shall be construed as if such invalid,
+            illegal or unenforceable provision had not been contained herein. No
+            waiver of any breach of any provision of the Agreement shall
+            constitute a waiver of any prior, concurrent or subsequent breach of
+            the same or any other provisions hereof, and no waiver shall be
+            effective unless made in writing and signed by an authorized
+            representative of the waiving Party.
+          </p>
+        </div>
+
+        <div className="space-y-3">
+          <h1 className="text-xl text-[#000000] lg:text-4xl py-2 font-semibold tracking-wide">
+            19. Modification
+          </h1>
+
+          <p className="font-normal tracking-wide text-justify text-gray-700 py-2">
+            The Agreement represents the complete and entire expression of the
+            agreement between the Parties, and shall supersede any and all other
+            agreements, whether written or oral, between the Parties. Other than
+            as set forth herein, the Agreement may be amended only by a written
+            agreement executed by an authorized representative of each Party. To
+            the extent that anything in or associated with the Trafee Network or
+            any Program Terms are in conflict or inconsistent with the
+            Agreement, the Agreement shall take precedence.
+          </p>
+        </div>
+
+        <div className="space-y-3">
+          <h1 className="text-xl text-[#000000] lg:text-4xl py-2 font-semibold tracking-wide">
+            20. Confidentially
+          </h1>
+
+          <p className="font-normal tracking-wide text-justify text-gray-700 py-2">
+            Confidential Information” means any information disclosed to You by
+            Trafee, either directly or indirectly, in writing, orally or by
+            inspection of tangible objects, other than information that You can
+            establish: (a) was publicly known and made generally available in
+            the public domain prior to the time of disclosure to You by Trafee;
+            (b) becomes publicly known and made generally available after
+            disclosure to You by Trafee other than through Your action or
+            inaction; and/or (c) is in Your possession, without confidentiality
+            restrictions, at the time of disclosure by Trafee as shown by Your
+            files and records prior to the time of disclosure. Trafee s Program
+            rates are considered “Confidential Information.” You shall not at
+            any time: (i) disclose, sell, license, transfer or otherwise make
+            available to any person or entity any Confidential Information; (ii)
+            use any Confidential information; and/or (iii) reproduce or
+            otherwise copy any Confidential Information, except as necessary in
+            connection with the purpose for which such Confidential Information
+            is disclosed to You or as required by applicable law. You agree to
+            take all reasonable measures to protect the secrecy of and avoid
+            disclosure and unauthorized use of the Confidential Information. All
+            Confidential Information shall at all times remain Trafee s personal
+            property and all documents, electronic media and other tangible
+            items containing or relating to any Confidential Information shall
+            be delivered to Trafee immediately upon Trafee s request.
+          </p>
+        </div>
+
+        <div className="space-y-3">
+          <h1 className="text-xl text-[#000000] lg:text-4xl py-2 font-semibold tracking-wide">
+            21. Force Majeury
+          </h1>
+
+          <p className="font-normal tracking-wide text-justify text-gray-700 py-2">
+            Neither Party shall be liable to the other by reason of failure or
+            delay in the performance of its obligations hereunder on account of
+            telecommunications, Internet or network failure or interruption,
+            results of computer hacking, Acts of God, fires, storms, war,
+            governmental action, labor conditions, earthquakes, natural
+            disasters or any other cause which is beyond the reasonable control
+            of such Party.
+          </p>
+        </div>
+
+        <div className="space-y-3">
+          <h1 className="text-xl text-[#000000] lg:text-4xl py-2 font-semibold tracking-wide">
+            22. Miscellaneous
+          </h1>
+
+          <p className="font-normal tracking-wide text-justify text-gray-700 py-2">
+            You may not use any device, software or routine to interfere or
+            attempt to interfere with the proper working of the Site. You may
+            not take any action that imposes an unreasonable or
+            disproportionately large load on the Trafee infrastructure. You
+            agree that any unauthorized and/or unlawful use of the Site,
+            Service, Creatives, and/or Programs would result in irreparable
+            injury to Trafee for which monetary damages would be inadequate. In
+            such event, Trafee shall have the right, in addition to other
+            remedies available to it pursuant to the Agreement, to immediate
+            injunctive relief against You without the need to post a bond.
+          </p>
+        </div>
+        <div className="space-y-3">
+          <h1 className="text-xl text-[#000000] lg:text-4xl py-2 font-semibold tracking-wide">
+            23.Ability to Perform
+          </h1>
+
+          <p className="font-normal tracking-wide text-justify text-gray-700 py-2">
+            You agree that Trafee may require a financial accounting and
+            inspection of Your books and records including, but not limited to,
+            access to Your computer databases, in order to verify and
+            corroborate financial information regarding the relationship
+            established hereunder. You hereby authorize Trafee to obtain credit
+            reports regarding Your business and to require You to provide it
+            with reasonable information regarding Your financial position.
+          </p>
+        </div>
+        <div className="space-y-3">
+          <h1 className="text-xl text-[#000000] lg:text-4xl py-2 font-semibold tracking-wide">
+            24. Relationship
+          </h1>
+
+          <p className="font-normal tracking-wide text-justify text-gray-700 py-2">
+            Each Party is an independent contractor and not a partner, joint
+            venturer or employee of the other. Neither Party shall have the
+            right to bind the other or to incur any obligation on the other’s
+            behalf.
+          </p>
+        </div>
+        <div className="space-y-3">
+          <h1 className="text-xl text-[#000000] lg:text-4xl py-2 font-semibold tracking-wide">
+            25. Notices
+          </h1>
+
+          <p className="font-normal tracking-wide text-justify text-gray-700 py-2">
+            All notices shall be sent to the address submitted by You when You
+            sign up for the Service and, if to Trafee, to the address listed in
+            the Contact section of the Site.
           </p>
         </div>
       </Container>
