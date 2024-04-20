@@ -5,11 +5,11 @@ import img from "@/assest/card.jpg";
 
 const Banner = () => {
   return (
-    <div className=" lg:h-[calc(100vh_-_30px)] w-full flex items-center ">
+    <div className=" lg:h-[calc(100vh_-_-80px)] w-full flex items-center ">
       <Container>
         <div className="w-full flex flex-col lg:flex-row justify-between">
-          <div className="text-white w-full lg:w-[52vw] mt-5  lg:mt-7 space-y-1 lg:space-y-3">
-            <div className="font-medium text-[17px] md:text-4xl lg:text-6xl flex flex-col tracking-wide space-y-1 ">
+          <div className="text-white w-full lg:w-[52vw] mt-5  lg:mt-12 space-y-1 lg:space-y-3">
+            <div className="font-medium text-[17px] md:text-4xl lg:text-6xl flex flex-col tracking-wie space-y-1 ">
               <span> Monetize Webcam</span>
               <span> traffic and level up</span>
               <span> your profit</span>
