@@ -36,7 +36,9 @@ const Navbar = () => {
     <Container>
       <div className="flex justify-between items-center">
         <div className="logo">
-          <Image src={logo} height={40} width={170} alt="logo" />
+          <Link href={"/"}>
+            <Image src={logo} height={40} width={170} alt="logo" />
+          </Link>
         </div>
 
         {/* Desktop menu */}
