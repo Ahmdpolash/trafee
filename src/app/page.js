@@ -25,7 +25,7 @@ export default function Home() {
       <BetterMonitize />
       <Best />
       <SmartLink />
-      <Footer />
+      
     </div>
   );
 }

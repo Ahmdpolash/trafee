@@ -7,6 +7,7 @@ import { IoMail } from "react-icons/io5";
 
 import { FaTwitter } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa";
+import Link from "next/link";
 
 const Footer = () => {
   return (
@@ -64,10 +65,16 @@ const Footer = () => {
 
           <div className="flex justify-between text-white">
             <div>
-              <p className="text-[13px]"> @ 2024 trafee.com All rights reserved</p>
+              <p className="text-[13px]">
+                {" "}
+                @ 2024 trafee.com All rights reserved
+              </p>
             </div>
             <div>
-              <p className="underline text-sm">term and conditions</p>
+              <Link href={"/terms-and-conditions"}>
+                {" "}
+                <p className="underline text-sm">term and conditions</p>
+              </Link>
             </div>
           </div>
         </Container>
