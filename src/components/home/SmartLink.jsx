@@ -4,7 +4,7 @@ import Image from "next/image";
 import robot from "@/assest/robot.svg";
 const SmartLink = () => {
   return (
-    <div className="mt-4 relative my-5 smartlink lg:pt-[380px]">
+    <div className="mt-4 -z-50 relative my-5 smartlink lg:pt-[380px]">
       <Container>
         <div className="space-y-2 " data-aos="fade-up" data-aos-duration="2000">
           <h1 className="text-[#000000] tracking-wide font-bold text-[18px] md:text-2xl lg:text-3xl">

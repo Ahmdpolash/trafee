@@ -18,22 +18,26 @@ const Navbar = () => {
   const navList = (
     <>
       <Link href="/" className="lg:ml-4">
-        Verticals
+        Home
       </Link>
-      <Link href="/about" className="lg:ml-4">
-        Why us?
+      <Link href="/affiliates" className="lg:ml-4">
+        Affiliates
+      </Link>
+
+      <Link href="/advertisers" className="lg:ml-4">
+        Advertisers
+      </Link>
+      <Link href="/blog" className="lg:ml-4">
+        Blog
       </Link>
       <Link href="/contact" className="lg:ml-4">
-        How it works
-      </Link>
-      <Link href="/services" className="lg:ml-4">
-        About us
+        Contact
       </Link>
     </>
   );
 
   return (
-    <div className="bg-white lg:fixed z-[999999] w-full">
+    <div className="bg-white lg:fixed m-0 z-9999] -mt-1 border-b shadow-md w-full lg:h-[72px]">
       <Container>
         <div className="flex  justify-between items-center">
           <div className="logo">

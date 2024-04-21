@@ -9,23 +9,19 @@ import Navbar from "@/shared/Navbar/Navbar";
 
 export default function Home() {
   return (
-    <div>
-      <div
-        style={{
-          background: `url("https://www.trafee.com/wp-content/themes/trafee/assets/images/bg.webp") top left / 68% 100% no-repeat`,
-          height: "100vh",
-        }}
-        className=""
-      >
-        <Navbar />
-        <Banner />
-      </div>
+    <>
+      <Banner />
+
       <Video />
       <Monetize />
       <BetterMonitize />
       <Best />
       <SmartLink />
-      
-    </div>
+    </>
   );
 }
+
+// style={{
+//   background: `url("https://www.trafee.com/wp-content/themes/trafee/assets/images/bg.webp") top left / 68% 100% no-repeat`,
+//   height: "100vh",
+// }}

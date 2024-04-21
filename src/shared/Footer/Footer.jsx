@@ -26,13 +26,13 @@ const Footer = () => {
           <div className="mx-auto my-5 pt-4">
             <ul className="flex justify-center items-center gap-6 lg:gap-10 flex-wrap">
               <li className="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-194 footer__menu--item">
-                <a href="/">Why us?</a>
+                <a href="/">Affiliates</a>
               </li>
               <li>
-                <a>How it works</a>
+                <a>Advertisers</a>
               </li>
               <li>
-                <a href="/">About us</a>
+                <a href="/">FAQ</a>
               </li>
               <li id="menu-item-197">
                 <a href="/">Blog</a>
@@ -67,7 +67,7 @@ const Footer = () => {
             <div>
               <p className="text-[13px]">
                 {" "}
-                @ 2024 trafee.com All rights reserved
+                @ 2024 GeekTemas.com All rights reserved
               </p>
             </div>
             <div>

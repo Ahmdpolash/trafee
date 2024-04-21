@@ -5,7 +5,12 @@ import img from "@/assest/card.jpg";
 
 const Banner = () => {
   return (
-    <div className=" lg:h-[calc(100vh_-_-80px)] w-full flex items-center ">
+    <div
+      style={{
+        background: `url("https://www.trafee.com/wp-content/themes/trafee/assets/images/bg.webp") top left / 68% 100% no-repeat`,
+      }}
+      className="-z-30 lg:h-[calc(100vh_-_-80px)]  w-full flex items-center "
+    >
       <Container>
         <div className="w-full flex flex-col lg:flex-row justify-between">
           <div className="text-white w-full lg:w-[52vw] mt-5  lg:mt-12 space-y-1 lg:space-y-3">
@@ -25,7 +30,7 @@ const Banner = () => {
             </div>
           </div>
 
-          <div className="w-full lg:w-[37vw]  h-auto mt-5 lg:mt-0">
+          <div className="w-full lg:w-[37vw] z-20  h-auto mt-5 lg:mt-0">
             <div className="flex justify-center mx-auto items-center gap-7 mb-5">
               <div
                 style={{

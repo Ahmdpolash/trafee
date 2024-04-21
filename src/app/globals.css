@@ -66,10 +66,10 @@
 
 .footer__layout--middle {
   display: flex;
-  -webkit-box-pack: justify;
+  --webkit-box-pack: justify;
   justify-content: space-between;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
+  --webkit-box-orient: vertical;
+--webkit-box-direction: normal;
   flex-direction: column;
   width: 100%;
   padding: 70px 0px;
