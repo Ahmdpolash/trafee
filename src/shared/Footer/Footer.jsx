@@ -28,14 +28,15 @@ const Footer = () => {
               <li className="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-194 footer__menu--item">
                 <a href="/">Affiliates</a>
               </li>
+
               <li>
-                <a>Advertisers</a>
+                <a href="/faq">FAQ</a>
               </li>
               <li>
-                <a href="/">FAQ</a>
+                <a href="/contact">Contact Us</a>
               </li>
               <li id="menu-item-197">
-                <a href="/">Blog</a>
+                <a href="/blog">Blog</a>
               </li>
               <li>
                 <a href="/">Sign up</a>
