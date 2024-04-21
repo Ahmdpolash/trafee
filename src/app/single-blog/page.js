@@ -42,16 +42,16 @@ const page = () => {
                 regulations and emerging trends shaping the landscape. From
                 revamped licensing processes to the rise of cryptocurrencies and
                 the growing importance of emerging markets, online gambling is
-                evolving at lightning speed. Here's what we can
+                evolving at lightning speed. Here s what we can
                 expect:Furthermore, cryptocurrencies are gaining wider
                 recognition within the industry. In particular, cryptocurrency
                 and blockchain technology are being embraced for their
                 advantages in enhancing security, transparency, and transaction
                 efficiency in online gambling platforms. The sector has
                 demonstrated significant promise, as evidenced by the online
-                gambling market's estimated value of $95 billion by the end of
-                the year. And hey, let's not forget how finance app offers are
-                seriously climbing the charts. I mean, we're talking digital
+                gambling market s estimated value of $95 billion by the end of
+                the year. And hey, let s not forget how finance app offers are
+                seriously climbing the charts. I mean, we re talking digital
                 wallets, mobile banking, insurance, quick loans - you name it!
               </p>
             </div>
@@ -77,8 +77,8 @@ const page = () => {
                 </p>
                 <p className="text-justify leading-7 tracking-wide text-slate-700">
                   Also, get to know the rules of the game – TikTok, Instagram,
-                  Facebook, and Twitch all have their own do's and don'ts. If
-                  you want to shout about iGaming on Meta platforms, you've to
+                  Facebook, and Twitch all have their own do s and don ts. If
+                  you want to shout about iGaming on Meta platforms, you ve to
                   ask nicely with an official form.
                 </p>
                 <p className="text-justify leading-7 tracking-wide text-slate-700">
@@ -88,16 +88,16 @@ const page = () => {
                   in enhancing security, transparency, and transaction
                   efficiency in online gambling platforms. The sector has
                   demonstrated significant promise, as evidenced by the online
-                  gambling market's estimated value of $95 billion by the end of
-                  the year. And hey, let's not forget how finance app offers are
-                  seriously climbing the charts. I mean, we're talking digital
+                  gambling market s estimated value of $95 billion by the end of
+                  the year. And hey, let s not forget how finance app offers are
+                  seriously climbing the charts. I mean, we re talking digital
                   wallets, mobile banking, insurance, quick loans - you name it!
                 </p>
                 <p className="text-justify leading-7 tracking-wide text-slate-700">
                   Another noteworthy trend is the unpredictable nature of
-                  Facebook. In particular, Facebook's ever-changing policies and
+                  Facebook. In particular, Facebook s ever-changing policies and
                   algorithms make it difficult for web admins to predict the
-                  platform's behavior, even when they provide detailed
+                  platform s behavior, even when they provide detailed
                   statistics on ad spend. This unpredictability has led to a
                   decline in advertisements and, in some cases, bans for web
                   admins.
@@ -114,7 +114,7 @@ const page = () => {
                 online casinos, there have been some positive developments due
                 to its flexible jurisdiction and low taxes on online casino
                 licenses. However, there are new regulations that are on the
-                horizon. So, what's going on? From September 1, 2023, there will
+                horizon. So, what s going on? From September 1, 2023, there will
                 be a br revamped process for obtaining an online casino license
                 in Curacao. Previously, private companies were responsible for
                 issuing sublicenses for online casino licenses, but now the
@@ -123,8 +123,8 @@ const page = () => {
                 rules, including advanced financial regulations. In 2024, all
                 the fun stuff like Fantasy Sports, AFL, and more will still be
                 around in the iGaming world, growing at a cool 6.51% yearly.
-                Just a heads up, though, iGaming isn't legal everywhere, so make
-                sure you're up to speed with the laws in your country and local
+                Just a heads up, though, iGaming isn t legal everywhere, so make
+                sure you re up to speed with the laws in your country and local
                 rules.
               </p>
             </div>
@@ -144,8 +144,8 @@ const page = () => {
                 </p>
                 <p className="text-justify leading-7 tracking-wide text-slate-700">
                   Also, get to know the rules of the game – TikTok, Instagram,
-                  Facebook, and Twitch all have their own do's and don'ts. If
-                  you want to shout about iGaming on Meta platforms, you've to
+                  Facebook, and Twitch all have their own do s and don ts. If
+                  you want to shout about iGaming on Meta platforms, you ve to
                   ask nicely with an official form.
                 </p>
                 <p className="text-justify leading-7 tracking-wide text-slate-700">
@@ -155,16 +155,16 @@ const page = () => {
                   in enhancing security, transparency, and transaction
                   efficiency in online gambling platforms. The sector has
                   demonstrated significant promise, as evidenced by the online
-                  gambling market's estimated value of $95 billion by the end of
-                  the year. And hey, let's not forget how finance app offers are
-                  seriously climbing the charts. I mean, we're talking digital
+                  gambling market s estimated value of $95 billion by the end of
+                  the year. And hey, let s not forget how finance app offers are
+                  seriously climbing the charts. I mean, we re talking digital
                   wallets, mobile banking, insurance, quick loans - you name it!
                 </p>
                 <p className="text-justify leading-7 tracking-wide text-slate-700">
                   Another noteworthy trend is the unpredictable nature of
-                  Facebook. In particular, Facebook's ever-changing policies and
+                  Facebook. In particular, Facebook s ever-changing policies and
                   algorithms make it difficult for web admins to predict the
-                  platform's behavior, even when they provide detailed
+                  platform s behavior, even when they provide detailed
                   statistics on ad spend. This unpredictability has led to a
                   decline in advertisements and, in some cases, bans for web
                   admins.
