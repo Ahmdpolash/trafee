@@ -47,19 +47,19 @@ const Footer = () => {
           <div className="mx-auto my-3 pt-4">
             <ul className="flex justify-center items-center gap-6 lg:gap-10 flex-wrap">
               <li>
-                <FaFacebookF className="text-[#EEAC4A] text-[24px]" />
+                <FaFacebookF className="text-[#1BA1E2] text-[24px]" />
               </li>
               <li>
-                <FaTwitter className="text-[#EEAC4A] text-[24px]" />
+                <FaTwitter className="text-[#1BA1E2] text-[24px]" />
               </li>
               <li>
-                <FaLinkedinIn className="text-[#EEAC4A] text-[24px]" />
+                <FaLinkedinIn className="text-[#1BA1E2] text-[24px]" />
               </li>
               <li>
-                <FaInstagram className="text-[#EEAC4A] text-[24px]" />
+                <FaInstagram className="text-[#1BA1E2] text-[24px]" />
               </li>
               <li>
-                <IoMail className="text-[#EEAC4A] text-[24px]" />
+                <IoMail className="text-[#1BA1E2] text-[24px]" />
               </li>
             </ul>
           </div>

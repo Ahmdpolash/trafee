@@ -14,10 +14,11 @@
 .button--t1 {
   background-image: linear-gradient(
     45deg,
-    rgb(242, 110, 53),
-    rgb(249, 168, 63) 50%,
-    rgb(242, 110, 53)
+    rgb(27, 161, 226),
+    rgb(21, 141, 208) 50%,
+    rgb(27, 161, 226)
   );
+
   text-align: center;
   background-size: 200%;
 }
@@ -69,7 +70,7 @@
   --webkit-box-pack: justify;
   justify-content: space-between;
   --webkit-box-orient: vertical;
---webkit-box-direction: normal;
+  --webkit-box-direction: normal;
   flex-direction: column;
   width: 100%;
   padding: 70px 0px;
