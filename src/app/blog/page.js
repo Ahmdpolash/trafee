@@ -2,6 +2,7 @@ import Container from "@/components/container/Container";
 
 import data from "@/utils/blog";
 import Image from "next/image";
+import Link from "next/link";
 
 const Blog = () => {
   return (
@@ -19,22 +20,25 @@ const Blog = () => {
 
         <div className="grid cursor-pointer grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 lg:gap-8">
           {data.map((blog, i) => (
-            <div className="space-y-2" key={i}>
-              <Image
-                className="w-full h-[250px] rounded-lg"
-                src={blog.image}
-                height={70}
-                width={350}
-                alt="img"
-              />
-              <p className="text-gray-600 pt-1">{blog.date}</p>
-              <h2 className="text-[#000000] font-semibold text-[17px] lg:text-2xl ">
-                {blog.title}
-              </h2>
-              <p className="text-justify text-gray-600">
-                {blog.short_description}
-              </p>
-            </div>
+            <Link href={"/single-blog"} key={i}>
+              {" "}
+              <div className="space-y-2">
+                <Image
+                  className="w-full h-[250px] rounded-lg"
+                  src={blog.image}
+                  height={70}
+                  width={350}
+                  alt="img"
+                />
+                <p className="text-gray-600 pt-1">{blog.date}</p>
+                <h2 className="text-[#000000] font-semibold text-[17px] lg:text-2xl ">
+                  {blog.title}
+                </h2>
+                <p className="text-justify text-gray-600">
+                  {blog.short_description}
+                </p>
+              </div>
+            </Link>
           ))}
         </div>
 
