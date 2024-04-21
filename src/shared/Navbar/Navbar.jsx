@@ -37,7 +37,7 @@ const Navbar = () => {
   );
 
   return (
-    <div className="bg-white lg:fixed m-0 z-9999] -mt-1 border-b shadow-md w-full lg:h-[72px]">
+    <div className="bg-white lg:fixed m-0 z-[9999] -mt-1 border-b shadow-md w-full lg:h-[72px]">
       <Container>
         <div className="flex  justify-between items-center">
           <div className="logo">
