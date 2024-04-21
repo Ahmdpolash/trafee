@@ -17,7 +17,7 @@ const Blog = () => {
         </div>
         {/* card */}
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 lg:gap-8">
+        <div className="grid cursor-pointer grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 lg:gap-8">
           {data.map((blog, i) => (
             <div className="space-y-2" key={i}>
               <Image
@@ -78,7 +78,7 @@ const Blog = () => {
                   <li>
                     <button
                       type="button"
-                      className="relative flex items-center justify-center font-medium min-w-[2rem] px-1.5 h-8 -my-3 rounded-md outline-none hover:bg-gray-500/5 focus:bg-yellow-500/10 focus:ring-2 focus:ring-[#1BA1E2] dark:hover:bg-gray-400/5 focus:text-yellow-600 transition"
+                      className="relative flex items-center justify-center font-medium min-w-[2rem] px-1.5 h-8 -my-3 rounded-md outline-none hover:bg-gray-500/5 focus:bg-yellow-500/10 focus:ring-2 focus:ring-[#1BA1E2] dark:hover:bg-gray-400/5 focus:text-[#1BA1E2] transition"
                     >
                       <span>2</span>
                     </button>
@@ -86,7 +86,7 @@ const Blog = () => {
                   <li>
                     <button
                       type="button"
-                      className="relative flex items-center justify-center font-medium min-w-[2rem] px-1.5 h-8 -my-3 rounded-md outline-none hover:bg-gray-500/5 focus:bg-yellow-500/10 focus:ring-2 focus:ring-[#1BA1E2] dark:hover:bg-gray-400/5 focus:text-yellow-600 transition"
+                      className="relative flex items-center justify-center font-medium min-w-[2rem] px-1.5 h-8 -my-3 rounded-md outline-none hover:bg-gray-500/5 focus:bg-yellow-500/10 focus:ring-2 focus:ring-[#1BA1E2] dark:hover:bg-gray-400/5 focus:text-[#1BA1E2] transition"
                     >
                       <span>3</span>
                     </button>
@@ -94,7 +94,7 @@ const Blog = () => {
                   <li>
                     <button
                       type="button"
-                      className="relative flex items-center justify-center font-medium min-w-[2rem] px-1.5 h-8 -my-3 rounded-md outline-none hover:bg-gray-500/5 focus:bg-yellow-500/10 focus:ring-2 focus:ring-[#1BA1E2] dark:hover:bg-gray-400/5 focus:text-yellow-600 transition"
+                      className="relative flex items-center justify-center font-medium min-w-[2rem] px-1.5 h-8 -my-3 rounded-md outline-none hover:bg-gray-500/5 focus:bg-yellow-500/10 focus:ring-2 focus:ring-[#1BA1E2] dark:hover:bg-gray-400/5 focus:text-[#1BA1E2] transition"
                     >
                       <span>4</span>
                     </button>
@@ -102,7 +102,7 @@ const Blog = () => {
                   <li>
                     <button
                       type="button"
-                      className="relative flex items-center justify-center font-medium min-w-[2rem] px-1.5 h-8 -my-3 rounded-md outline-none hover:bg-gray-500/5 focus:bg-yellow-500/10 focus:ring-2 focus:ring-[#1BA1E2] dark:hover:bg-gray-400/5 focus:text-yellow-600 transition"
+                      className="relative flex items-center justify-center font-medium min-w-[2rem] px-1.5 h-8 -my-3 rounded-md outline-none hover:bg-gray-500/5 focus:bg-yellow-500/10 focus:ring-2 focus:ring-[#1BA1E2] dark:hover:bg-gray-400/5 focus:text-[#1BA1E2] transition"
                     >
                       <span>5</span>
                     </button>
@@ -110,7 +110,7 @@ const Blog = () => {
                   <li>
                     <button
                       type="button"
-                      className="relative flex items-center justify-center font-medium min-w-[2rem] px-1.5 h-8 -my-3 rounded-md outline-none hover:bg-gray-500/5 focus:bg-yellow-500/10 focus:ring-2 focus:ring-[#1BA1E2] dark:hover:bg-gray-400/5 focus:text-yellow-600 transition"
+                      className="relative flex items-center justify-center font-medium min-w-[2rem] px-1.5 h-8 -my-3 rounded-md outline-none hover:bg-gray-500/5 focus:bg-yellow-500/10 focus:ring-2 focus:ring-[#1BA1E2] dark:hover:bg-gray-400/5 focus:text-[#1BA1E2] transition"
                     >
                       <span>6</span>
                     </button>
@@ -127,7 +127,7 @@ const Blog = () => {
                   <li>
                     <button
                       type="button"
-                      className="relative flex items-center justify-center font-medium min-w-[2rem] px-1.5 h-8 -my-3 rounded-md outline-none hover:bg-gray-500/5 focus:bg-yellow-500/10 focus:ring-2 focus:ring-[#1BA1E2] dark:hover:bg-gray-400/5 focus:text-yellow-600 transition"
+                      className="relative flex items-center justify-center font-medium min-w-[2rem] px-1.5 h-8 -my-3 rounded-md outline-none hover:bg-gray-500/5 focus:bg-yellow-500/10 focus:ring-2 focus:ring-[#1BA1E2] dark:hover:bg-gray-400/5 focus:text-[#1BA1E2] transition"
                     >
                       <span>9</span>
                     </button>
@@ -135,7 +135,7 @@ const Blog = () => {
                   <li>
                     <button
                       type="button"
-                      className="relative flex items-center justify-center font-medium min-w-[2rem] px-1.5 h-8 -my-3 rounded-md outline-none hover:bg-gray-500/5 focus:bg-yellow-500/10 focus:ring-2 focus:ring-[#1BA1E2] dark:hover:bg-gray-400/5 focus:text-yellow-600 transition"
+                      className="relative flex items-center justify-center font-medium min-w-[2rem] px-1.5 h-8 -my-3 rounded-md outline-none hover:bg-gray-500/5 focus:bg-yellow-500/10 focus:ring-2 focus:ring-[#1BA1E2] dark:hover:bg-gray-400/5 focus:text-[#1BA1E2] transition"
                     >
                       <span>10</span>
                     </button>
@@ -143,7 +143,7 @@ const Blog = () => {
                   <li>
                     <button
                       type="button"
-                      className="relative flex items-center justify-center font-medium min-w-[2rem] px-1.5 h-8 -my-3 rounded-md outline-none hover:bg-gray-500/5 focus:bg-yellow-500/10 focus:ring-2 focus:ring-[#1BA1E2] dark:hover:bg-gray-400/5 transition text-yellow-600"
+                      className="relative flex items-center justify-center font-medium min-w-[2rem] px-1.5 h-8 -my-3 rounded-md outline-none hover:bg-gray-500/5 focus:bg-yellow-500/10 focus:ring-2 focus:ring-[#1BA1E2] dark:hover:bg-gray-400/5 transition text-[#1BA1E2]"
                       aria-label="Next"
                       rel="next"
                     >

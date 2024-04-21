@@ -59,7 +59,7 @@ const Faq = () => {
                         insight and professional experience to locate a specific
                         audience on over 50 channels, and to target and optimize
                         a perfected approach. Now all that is left for you to do
-                        is to simply join us and you'll gain access to high
+                        is to simply join us and you ll gain access to high
                         quality inventory on top-tier publisher sites worldwide.
                       </p>
                     </div>
