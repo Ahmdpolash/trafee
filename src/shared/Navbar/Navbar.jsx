@@ -5,7 +5,7 @@ import { RxCross1 } from "react-icons/rx";
 import { BsCartCheck } from "react-icons/bs";
 import Container from "@/components/container/Container";
 import Link from "next/link";
-import logo from "@/assest/logo.png";
+import logo from "@/assest/final.png";
 import Image from "next/image";
 
 const Navbar = () => {
@@ -17,20 +17,20 @@ const Navbar = () => {
 
   const navList = (
     <>
-      <Link href="/" className="lg:ml-4">
+      <Link href="/" className="lg:ml-4 hover:text-[#1BA1E2] duration-300">
         Home
       </Link>
-      <Link href="/affiliates" className="lg:ml-4">
+      <Link href="/affiliates" className="lg:ml-4 hover:text-[#1BA1E2] duration-300">
         Affiliates
       </Link>
 
-      <Link href="/advertisers" className="lg:ml-4">
+      <Link href="/advertisers" className="lg:ml-4 hover:text-[#1BA1E2] duration-300">
         Advertisers
       </Link>
-      <Link href="/blog" className="lg:ml-4">
+      <Link href="/blog" className="lg:ml-4 hover:text-[#1BA1E2] duration-300">
         Blog
       </Link>
-      <Link href="/contact" className="lg:ml-4">
+      <Link href="/contact" className="lg:ml-4 hover:text-[#1BA1E2] duration-300">
         Contact
       </Link>
     </>
@@ -70,10 +70,10 @@ const Navbar = () => {
           </div>
 
           <div className="flex items-center">
-            <button className="hidden lg:block lg:ml-4 text-[#FAAF40]  font-medium txt py-[8px]">
+            <button className="hidden lg:block lg:ml-4 text-[#1BA1E2]  font-medium txt py-[8px]">
               Sign up
             </button>
-            <button className="hidden lg:block lg:ml-4 txt text-[#FAAF40] border-2 border-[#FAAF40] rounded-md  px-6 font-medium py-[6px]">
+            <button className="hidden lg:block lg:ml-4 txt text-[#1BA1E2] border-2 border-[#1BA1E2] rounded-md  px-6 font-medium py-[6px]">
               Log In
             </button>
             <IoMdMenu

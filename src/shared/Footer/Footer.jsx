@@ -1,5 +1,5 @@
 import Container from "@/components/container/Container";
-import logo from "@/assest/logo.png";
+import logo from "@/assest/final.png";
 import Image from "next/image";
 import { FaFacebookF } from "react-icons/fa";
 import { FaLinkedinIn } from "react-icons/fa";

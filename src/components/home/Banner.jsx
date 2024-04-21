@@ -44,7 +44,7 @@ const Banner = () => {
                     <h2 class="text-[16px] lg:text-[22px] tracking-wider font-bold lg:mb-20">
                       Join the IGaming <br /> with Geekteams
                     </h2>
-                    <button className="bg-white hidden lg:block hover:bg-[#F79A43] hover:text-white duration-300 absolute bottom-6 text-black py-[6px] px-4 rounded-md">
+                    <button className="bg-white hidden lg:block hover:bg-[#1BA1E2] hover:text-white duration-300 absolute bottom-6 text-black py-[6px] px-4 rounded-md">
                       Read Now
                     </button>
                   </div>
@@ -64,7 +64,7 @@ const Banner = () => {
                       Geekteams Guide to <br /> the IGaming <br /> Industry in
                       2024
                     </h2>
-                    <button className="bg-white hidden lg:block hover:bg-[#F79A43] hover:text-white duration-300 absolute bottom-6 text-black py-[6px] px-4 rounded-md">
+                    <button className="bg-white hidden lg:block hover:bg-[#1BA1E2] hover:text-white duration-300 absolute bottom-6 text-black py-[6px] px-4 rounded-md">
                       Read Now
                     </button>
                   </div>
@@ -85,7 +85,7 @@ const Banner = () => {
                     <h2 class="text-[16px] lg:text-[22px] tracking-wider font-bold lg:mb-20">
                       Technologies <br /> shipping iGaming <br /> Future
                     </h2>
-                    <button className="bg-white hidden lg:block hover:bg-[#F79A43] hover:text-white duration-300 absolute bottom-6 text-black py-[6px] px-4 rounded-md">
+                    <button className="bg-white hidden lg:block hover:bg-[#1BA1E2] hover:text-white duration-300 absolute bottom-6 text-black py-[6px] px-4 rounded-md">
                       Read Now
                     </button>
                   </div>
@@ -104,7 +104,7 @@ const Banner = () => {
                     <h2 class="text-[16px] lg:text-[22px] tracking-wider font-bold lg:mb-20">
                       NewComer Pack - <br /> Bonuses for new <br /> Affiliates
                     </h2>
-                    <button className="bg-white hidden lg:block hover:bg-[#F79A43] hover:text-white duration-300 absolute bottom-6 text-black py-[6px] px-4 rounded-md">
+                    <button className="bg-white hidden lg:block hover:bg-[#1BA1E2] hover:text-white duration-300 absolute bottom-6 text-black py-[6px] px-4 rounded-md">
                       Read Now
                     </button>
                   </div>
