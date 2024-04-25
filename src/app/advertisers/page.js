@@ -81,10 +81,7 @@ export default function AdvertiserPage() {
               Ready to reach your target audience and boost your brand
               visibility? Get started with our advertising platform today.
             </p>
-            <p className="text-gray-700 mb-8 text-center">
-              Our team of experts will work with you to create a customized
-              advertising strategy tailored to your specific goals and needs.
-            </p>
+           
             <div className="text-center">
               <button
                 type="button"
@@ -92,7 +89,7 @@ export default function AdvertiserPage() {
               >
                 Get Started
               </button>
-            </div>
+            </div> 
           </div>
         </div>
       </main>
