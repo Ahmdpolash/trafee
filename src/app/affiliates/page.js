@@ -72,11 +72,7 @@ export default function AffiliatePage() {
               affiliate program. Start promoting our products and services to
               your audience today.
             </p>
-            <p className="text-gray-700 mb-8 text-center">
-              Our affiliate team will provide you with all the resources and
-              support you need to succeed, including a unique referral link,
-              marketing materials, and performance tracking.
-            </p>
+
             <div className="text-center">
               <button
                 type="button"
