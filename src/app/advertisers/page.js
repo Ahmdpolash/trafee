@@ -1,9 +1,7 @@
 export default function AdvertiserPage() {
   return (
     <div className="bg-gray-100 lg:py-[80px]">
-      <header className="bg-white shadow">
-        
-      </header>
+      <header className="bg-white shadow"></header>
 
       <main className="container mx-auto py-8 px-4">
         <div className="max-w-3xl mx-auto">
@@ -76,39 +74,25 @@ export default function AdvertiserPage() {
           </div>
 
           <div className="bg-white shadow-md rounded p-8 mb-8">
-            <h2 className="text-2xl font-bold mb-4 text-center text-[#1BA1E2]">
-              Get Started
+            <h2 className="text-2xl font-bold mb-4 text-center">
+              Get Started Today
             </h2>
-            <form>
-              <div className="mb-4">
-                <label htmlFor="name" className="block font-bold mb-2">
-                  Company Name
-                </label>
-                <input
-                  type="text"
-                  id="name"
-                  className="w-full border border-gray-400 p-2 rounded"
-                />
-              </div>
-              <div className="mb-4">
-                <label htmlFor="email" className="block font-bold mb-2">
-                  Email Address
-                </label>
-                <input
-                  type="email"
-                  id="email"
-                  className="w-full border border-gray-400 p-2 rounded"
-                />
-              </div>
-              <div className="text-center">
-                <button
-                  type="submit"
-                  className="bg-blue-500 hover:bg-blue-700 text-white px-6 py-3 rounded"
-                >
-                  Get Started
-                </button>
-              </div>
-            </form>
+            <p className="text-gray-700 mb-6 text-center">
+              Ready to reach your target audience and boost your brand
+              visibility? Get started with our advertising platform today.
+            </p>
+            <p className="text-gray-700 mb-8 text-center">
+              Our team of experts will work with you to create a customized
+              advertising strategy tailored to your specific goals and needs.
+            </p>
+            <div className="text-center">
+              <button
+                type="button"
+                className="bg-blue-500 hover:bg-blue-700 text-white px-6 py-3 rounded"
+              >
+                Get Started
+              </button>
+            </div>
           </div>
         </div>
       </main>

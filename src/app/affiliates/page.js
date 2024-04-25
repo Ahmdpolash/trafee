@@ -64,37 +64,27 @@ export default function AffiliatePage() {
           </div>
 
           <div className="bg-white shadow-md rounded p-8 mb-8">
-            <h2 className="text-2xl font-bold mb-4 text-center">Join Now</h2>
-            <form>
-              <div className="mb-4">
-                <label htmlFor="name" className="block font-bold mb-2">
-                  Full Name
-                </label>
-                <input
-                  type="text"
-                  id="name"
-                  className="w-full border border-gray-400 p-2 rounded"
-                />
-              </div>
-              <div className="mb-4">
-                <label htmlFor="email" className="block font-bold mb-2">
-                  Email Address
-                </label>
-                <input
-                  type="email"
-                  id="email"
-                  className="w-full border border-gray-400 p-2 rounded"
-                />
-              </div>
-              <div className="text-center">
-                <button
-                  type="submit"
-                  className="bg-blue-500 hover:bg-blue-700 text-white px-6 py-3 rounded"
-                >
-                  Join Now
-                </button>
-              </div>
-            </form>
+            <h2 className="text-2xl font-bold mb-4 text-center">
+              Join Our Affiliate Program
+            </h2>
+            <p className="text-gray-700 mb-6 text-center">
+              Unlock new earning opportunities by becoming a part of our
+              affiliate program. Start promoting our products and services to
+              your audience today.
+            </p>
+            <p className="text-gray-700 mb-8 text-center">
+              Our affiliate team will provide you with all the resources and
+              support you need to succeed, including a unique referral link,
+              marketing materials, and performance tracking.
+            </p>
+            <div className="text-center">
+              <button
+                type="button"
+                className="bg-blue-500 hover:bg-blue-700 text-white px-6 py-3 rounded"
+              >
+                Join Now
+              </button>
+            </div>
           </div>
 
           <div className="bg-white shadow-md rounded p-8 mb-8">

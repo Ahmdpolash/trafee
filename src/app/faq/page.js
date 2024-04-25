@@ -44,7 +44,7 @@ const Faq = () => {
                     </div>
                     <div className="bg-gray-100 p-5 px-10 w-full flex items-center">
                       <h4 className="text-md leading-6 font-medium text-gray-900">
-                        What is CPAFULL?
+                        What is GeekTeam?
                       </h4>
                     </div>
                   </div>

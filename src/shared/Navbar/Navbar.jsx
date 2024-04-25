@@ -30,6 +30,9 @@ const Navbar = () => {
       <Link href="/blog" className="lg:ml-4 hover:text-[#1BA1E2] duration-300">
         Blog
       </Link>
+      <Link href="/faq" className="lg:ml-4 hover:text-[#1BA1E2] duration-300">
+        FAQ
+      </Link>
       <Link href="/contact" className="lg:ml-4 hover:text-[#1BA1E2] duration-300">
         Contact
       </Link>
